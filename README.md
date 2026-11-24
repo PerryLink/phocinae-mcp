@@ -11,6 +11,7 @@
   <img alt="Registry" src="https://img.shields.io/static/v1?label=MCP%20Registry&message=active&color=6f42c1&style=flat-square">
   <img alt="MCP" src="https://img.shields.io/static/v1?label=MCP&message=2026-07-28%20%2B%202024-11-05&color=1f6feb&style=flat-square">
   <img alt="deps" src="https://img.shields.io/static/v1?label=runtime%20deps&message=0&color=brightgreen&style=flat-square">
+  <a href="https://glama.ai/mcp/servers/Phocinae/phocinae-mcp"><img alt="Phocinae/phocinae-mcp MCP server" src="https://glama.ai/mcp/servers/Phocinae/phocinae-mcp/badges/score.svg"></a>
 </p>
 
 <img src="docs/assets/mcp_tools.png" width="880" alt="MCP 协议自述（真实 JSON-RPC 帧）">
